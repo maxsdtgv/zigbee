@@ -52,7 +52,3 @@ Count=0
 Count=2
 File0=USB
 File1=SPI
-[EXPANDED NODES]
-Node1=Sources
-Node2=Binaries
-Count=2

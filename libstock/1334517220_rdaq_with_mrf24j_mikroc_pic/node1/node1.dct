@@ -142,10 +142,15 @@ bdeviceclass
 bdeviceprotocol
 bdevicesubclass
 bdsctype
+bdsctype
+bdsctype
 bf
 bf_bit
 bgst
 bgst_bit
+blength
+blength
+blength
 blength
 bmaxpacketsize0
 bnumconfigurations
@@ -721,7 +726,10 @@ mrf_createnewconnection_withpaylod
 mrf_cs
 mrf_csdirection
 mrf_delay10us
+mrf_delay10us
 mrf_delay2ms
+mrf_delay2ms
+mrf_delay400us
 mrf_delay400us
 mrf_disa_rx_packet
 mrf_discardpacket
@@ -1113,6 +1121,8 @@ stkunf_bit
 strd1
 strd2
 strd3
+string
+string
 string
 sub_32x32_fp
 suspnd
