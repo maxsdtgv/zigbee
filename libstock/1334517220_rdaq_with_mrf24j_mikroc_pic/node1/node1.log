@@ -1,0 +1,17 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP18F2550 -RA -GC -Y -DL -O11111114 -fo20 -N"C:\Users\Nassorri\toshiba\PIC_MCU\mC_PRO\Programs\P18\RDAQ_560\node1\node1.mcppi" -SP"C:\Users\Public\Documents\mikroElektronika\mikroC PRO for PIC_560\defs\" -SP"C:\Users\Public\Documents\mikroElektronika\mikroC PRO for PIC_560\uses\P18\" -SP"C:\Users\Nassorri\toshiba\PIC_MCU\mC_PRO\Programs\P18\RDAQ_560\node1\" -SP"C:\Users\Nassorri\toshiba\PIC_MCU\mC_PRO\Programs\P18\RDAQ_560\lib\" -SP"C:\Users\Nassorri\toshiba\PIC_MCU\mC_PRO\Programs\P18\RDAQ_560\lib\constants\" "node1.c" "USBdsc.c" "mrf_delays.c" "__Lib_Mrf24j40.mcl" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_SPI_b10c7.mcl" "__Lib_USB_genHID.mcl"	 
+hint: 0	1139	Available RAM: 2027 [bytes], Available ROM: 32768 [bytes]	 
+diagnostics: 0	122	Compilation Started	P18F2550.c
+diagnostics: 1411	123	Compiled Successfully	P18F2550.c
+diagnostics: 0	122	Compilation Started	__Lib_Delays.c
+diagnostics: 172	123	Compiled Successfully	__Lib_Delays.c
+diagnostics: 0	126	All files Preprocessed in 78 ms	 
+diagnostics: 0	122	Compilation Started	node1.c
+hint: 0	1004	interrupt handler (interrupt at 0x0008)	node1.c
+diagnostics: 250	123	Compiled Successfully	node1.c
+diagnostics: 0	122	Compilation Started	USBdsc.c
+diagnostics: 166	123	Compiled Successfully	USBdsc.c
+diagnostics: 0	122	Compilation Started	mrf_delays.c
+diagnostics: 19	123	Compiled Successfully	mrf_delays.c
+diagnostics: 0	127	All files Compiled in 218 ms	 
+error: 0	434	Demo Limit	Demo Limit
+error: 0	102	Finished (with errors): 15 abr 2012, 16:19:41	node1.mcppi
